@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import dns.resolver
 import dns.reversename
 import wx
