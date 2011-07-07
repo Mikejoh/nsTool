@@ -4,7 +4,7 @@ import wx
 
 class nsTool(wx.Frame):
     
-    # Constructor
+    # Constructor 
     
     def __init__(self, parent, id):
         wx.Frame.__init__(self,parent, id, 'nsTool', size=(500,350))
