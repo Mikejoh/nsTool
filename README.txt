@@ -15,4 +15,6 @@ Note:
 -----
 
 Made this as a just-for-fun project when exploring and learning Python (as i still do) and why not
-try out Github at the same time! :)
+try out Github at the same time.
+
+I'm happily listening to any ideas/suggestions/changes/tips or whatever! :) 
