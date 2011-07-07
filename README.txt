@@ -16,3 +16,8 @@ Note:
 
 Made this as a just-for-fun project when exploring and learning Python (as i still do) and why not
 try out Github at the same time! :)
+
+Version:
+--------
+
+0.1
