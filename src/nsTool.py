@@ -4,6 +4,8 @@ import wx
 
 class nsTool(wx.Frame):
     
+    # Constructor
+    
     def __init__(self, parent, id):
         wx.Frame.__init__(self,parent, id, 'nsTool', size=(500,350))
         panel = wx.Panel(self)   
@@ -148,6 +150,8 @@ class nsTool(wx.Frame):
     def OnHelp(self, event):
         mess = """
         A small NS-tool!
+        
+        Version: 0.1 (?)
         """
         
         box = wx.MessageDialog(None, mess,'Help',wx.OK)
