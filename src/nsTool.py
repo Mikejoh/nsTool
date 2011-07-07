@@ -153,7 +153,7 @@ class nsTool(wx.Frame):
         mess = """
         A small NS-tool!
         
-        Version: 0.1 (?)
+        Version: 0.1
         """
         
         box = wx.MessageDialog(None, mess,'Help',wx.OK)
