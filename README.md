@@ -9,5 +9,5 @@ With this tool you can check the following RR-types
 * NS
 * PTR
 
-#### Disclaimer
-I made this as a just-for-fun project when exploring and learning Python.
+Required Python modules:
+* `dns`
